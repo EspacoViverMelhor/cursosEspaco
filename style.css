@@ -1,0 +1,135 @@
+body {
+    width: 97vw;
+    height: 100vh;
+    background-color: #18175d;
+  
+}
+
+img {
+    width: 97vw;
+    height: 100vh;
+  
+   
+}
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+   
+   
+}
+
+button {
+    border-radius: 20px;
+    width: 70vw;
+    height: 10vh;
+    background-color: rgb(4, 255, 0);
+}
+
+
+button {
+    font-size: 30px;
+ 
+}
+
+
+
+button:hover {
+    transform: scale(1.4);
+    transition: all 0.5s;
+  } 
+
+
+.titulo {
+    border-radius: 30px;
+    height: 20vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.subtitulo {
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.titulo1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parte2 img{
+   
+    height: 30vh;
+}
+
+.titulo1 img{
+    border-radius: 50%;
+    width: 15vw;
+    height: 15vh;
+}
+
+.t3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    width: 90vw;
+}
+.title3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista {
+    display: inline-block;
+}
+
+.resto {
+
+    display: inline-block;
+}
+.resto img {
+    width: 64vw;
+    height: 50vh;
+}
+
+.trediv {
+    background-color: #18175d;
+}
+
+.lista li {
+    color: white;
+
+    font: 1.2em sans-serif;
+}
+
+.lista a {
+    color: white;
+}
+
+span {
+    color: white;
+    font: 1.3em sans-serif;
+}
+
+
+a:link {text-decoration: none}
+a:visited {text-decoration: none}
+a:active {text-decoration: none}
+a:hover {text-decoration: underline; color: rgb(0, 255, 55);}
+
+.ab:hover {
+    transform: scale(1.4);
+    transition: all 0.5s;
+  } 
